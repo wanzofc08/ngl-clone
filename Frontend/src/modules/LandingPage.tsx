@@ -5,10 +5,10 @@ const LandingPage = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-4">
       <h1 className="text-6xl font-extrabold mb-6 text-white text-center">
-        Hello world!
+        selamat datang 
       </h1>
       <p className="text-2xl mb-8 text-white text-center max-w-lg bg-gray-100 bg-opacity-20 shadow-sm py-2 rounded-full">
-        Try out the anonymous messaging app
+ di ngl clone 
       </p>
       <div className="flex space-x-4">
         <Button
