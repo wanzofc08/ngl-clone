@@ -88,10 +88,10 @@ const ConfessionsPage = () => {
       <div className="md:-rotate-90 text-center font-semibold text-2xl flex flex-col gap-2">
         <p>Made by :</p>
         <Link
-          to="https://instagram.com/pankha.hu"
+          to="https://instagram.com/wanz_brayy"
           className="bg-red-400 p-2 -rotate-3 font-bold cursor-pointer"
         >
-          @pankha.hu
+          @wanzofc
         </Link>
       </div>
       <div className="p-6 pt-0 w-full max-w-md gap-4 flex flex-col relative">
